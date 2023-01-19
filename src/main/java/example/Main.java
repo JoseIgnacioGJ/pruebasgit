@@ -1,5 +1,7 @@
 package main.java.example;
 
 public class Main {
-  System.out.println("");
+    public static void main(String[] args) {
+        System.out.println("");
+    }
 }
